@@ -1,0 +1,1 @@
+import MyButton from '../src/components/button.jsx';

@@ -1,0 +1,6 @@
+### karma
+- karma 自动化测试框架
+- mocha 测试框架
+- coverage 代码覆盖检测
+- karma-webpack es6 babel才能单元测试，另外需要isparta-loader做es6前置加载打点，不然polyfill代码不好检测覆盖情况
+- plugin[对应上述的karma-插件]
